@@ -1,0 +1,4 @@
+1. Recyclable and Low Fat Products
+   Write a solution to find the ids of products that are both low fat and recyclable.
+ans : Select product_id from Products 
+                        where low_fats = 'Y' and recyclable = 'Y'
